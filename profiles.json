@@ -4,5 +4,11 @@
     "name": "Основной",
     "branch": "main",
     "last_played_game": null
+  },
+  {
+    "id": "4d9cd4e2-e027-465a-8613-6cfec2b95552",
+    "name": "second",
+    "branch": "second-4d9cd4e2e027465a86136cfec2b95552",
+    "last_played_game": null
   }
 ]
